@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Bruno Otávio! 👋 🚀
 
-<!--
-**brunofereiramil12-hash/brunofereiramil12-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚗 Carreira & Foco
+- **Atualmente:** Assistente Administrativo na **Renault Valec**.
+- **Estudando:** Desenvolvimento de Sistemas no **SENAC Campinas**.
+- **Idiomas:** Aperfeiçoando meu inglês na **New Castle**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias em Aprendizado
+- **Python:** Focado em lógica e automação (Curso do Guanabara).
+- **Ferramentas:** VS Code, Git e GitHub.
+- **Objetivo:** Criar códigos limpos e funcionais.
+
+---
+
+### 📊 Minhas Estatísticas
+![Estatísticas do Bruno](https://github-readme-stats.vercel.app/api?username=brunoferreiramil12-hash&show_icons=true&theme=dark)
