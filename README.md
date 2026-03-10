@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Tecnologias em Aprendizado
-- **Python:** Focado em lógica e automação (Curso do Guanabara).
+- **Python:** Focado em lógica e automação.
 - **Ferramentas:** VS Code, Git e GitHub.
 - **Objetivo:** Criar códigos limpos e funcionais.
 
